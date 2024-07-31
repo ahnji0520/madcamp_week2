@@ -35,7 +35,7 @@
 
 ---
 
-![Uploading KakaoTalk_20240731_212526091_14.png…]()
+![splash](https://github.com/user-attachments/assets/d4b02abb-018a-45da-b6b1-0cfb4e15a546)
 
 - 앱을 실행하면 바로 로그인 안내 화면(splash 화면)이 뜹니다.
 - 카카오 로그인을 지원합니다.
