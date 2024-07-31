@@ -44,13 +44,17 @@
 
 ---
 
-![tab1_ver1](https://github.com/user-attachments/assets/99dc6231-7830-4350-9d12-4cfd31fbecd7)
-![add_friends](https://github.com/user-attachments/assets/4c6ba375-2842-4f75-96b1-002e0874a193)
-![add_expense](https://github.com/user-attachments/assets/747ea59c-0a5b-4efb-8c8f-e404905d8a3f)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/user-attachments/assets/99dc6231-7830-4350-9d12-4cfd31fbecd7" width="200"/>
+    <img src="https://github.com/user-attachments/assets/4c6ba375-2842-4f75-96b1-002e0874a193" width="200"/>
+    <img src="https://github.com/user-attachments/assets/747ea59c-0a5b-4efb-8c8f-e404905d8a3f" width="200"/>
+</div>
 
-![tab1_ver2](https://github.com/user-attachments/assets/9b77a36c-4480-4d15-977c-e986eae7bcee)
-![debt_detail](https://github.com/user-attachments/assets/c893e951-8d1d-4f29-ad9b-18b8252e3681)
-![settled](https://github.com/user-attachments/assets/faa2f732-3cf3-42e3-b2aa-1dd4dee948db)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/user-attachments/assets/9b77a36c-4480-4d15-977c-e986eae7bcee" width="200"/>
+    <img src="https://github.com/user-attachments/assets/c893e951-8d1d-4f29-ad9b-18b8252e3681" width="200"/>
+    <img src="https://github.com/user-attachments/assets/faa2f732-3cf3-42e3-b2aa-1dd4dee948db" width="200"/>
+</div>
 
 친구들과의 정산 목록을 확인할 수 있는 탭입니다.
 
@@ -69,13 +73,15 @@
 ### Tab2 : Group
 
 ---
-
-![tab2](https://github.com/user-attachments/assets/2cdcd211-1207-4748-9a70-974fb68eef52)
-![add_group](https://github.com/user-attachments/assets/f9558004-1dd6-4878-bedd-0d8c40acda3c)
-
-![group_expense](https://github.com/user-attachments/assets/b7dbfd64-0a22-4a9d-977e-935b15862dfb)
-![group_debt](https://github.com/user-attachments/assets/2405df39-6427-4e1e-b024-17b6ab039426)
-![group_debt_simplified](https://github.com/user-attachments/assets/a7a1623d-2423-476e-95a6-7fd2b7796c0b)
+<div style="display: flex; flex-direction: row;">
+  ![tab2](https://github.com/user-attachments/assets/2cdcd211-1207-4748-9a70-974fb68eef52)
+  ![add_group](https://github.com/user-attachments/assets/f9558004-1dd6-4878-bedd-0d8c40acda3c)
+</div>
+<div style="display: flex; flex-direction: row;">
+  ![group_expense](https://github.com/user-attachments/assets/b7dbfd64-0a22-4a9d-977e-935b15862dfb)
+  ![group_debt](https://github.com/user-attachments/assets/2405df39-6427-4e1e-b024-17b6ab039426)
+  ![group_debt_simplified](https://github.com/user-attachments/assets/a7a1623d-2423-476e-95a6-7fd2b7796c0b)
+</div>
 내가 속해있는 그룹을 보여주고, 그룹 안에서 생긴 채무 관계를 정리해서 보여주는 탭입니다.
 
 - 내가 속해 있는 그룹들을 리스트로 보여줍니다.
@@ -100,9 +106,10 @@
 ### Tab3 : Profile
 
 ---
-
-![tab3_ver1](https://github.com/user-attachments/assets/529a1a9a-e906-4f51-8f6e-ae34faa1bfa1)
-![tab3_ver2](https://github.com/user-attachments/assets/524bdcb6-ec7e-4455-a521-03a8038233e4)
+<div style="display: flex; flex-direction: row;">
+  ![tab3_ver1](https://github.com/user-attachments/assets/529a1a9a-e906-4f51-8f6e-ae34faa1bfa1)
+  ![tab3_ver2](https://github.com/user-attachments/assets/524bdcb6-ec7e-4455-a521-03a8038233e4)
+</div>
 연동된 카카오톡 프로필과 닉네임, 내 소비내역 차트를 보여주는 탭입니다.
 
 - 카카오톡에서 불러온 프로필 사진과 닉네임을 보여주고,
