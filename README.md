@@ -44,17 +44,13 @@
 
 ---
 
-![KakaoTalk_20240731_212526091.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/30019f33-257b-42a0-91e6-bc45c50671a2/KakaoTalk_20240731_212526091.png)
+![tab1_ver1](https://github.com/user-attachments/assets/99dc6231-7830-4350-9d12-4cfd31fbecd7)
+![add_friends](https://github.com/user-attachments/assets/4c6ba375-2842-4f75-96b1-002e0874a193)
+![add_expense](https://github.com/user-attachments/assets/747ea59c-0a5b-4efb-8c8f-e404905d8a3f)
 
-![KakaoTalk_20240731_212526091_02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/e1fba6b5-6d76-4e92-b67c-3bda974dd422/KakaoTalk_20240731_212526091_02.png)
-
-![KakaoTalk_20240731_212526091_03.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/b642992d-e621-463b-a716-3230a30c3c59/KakaoTalk_20240731_212526091_03.png)
-
-![KakaoTalk_20240731_212526091_04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/3417a26d-be78-441d-b7b9-a3903eb90eac/KakaoTalk_20240731_212526091_04.png)
-
-![KakaoTalk_20240731_212526091_05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/dd86341c-01fd-426a-aec4-369de7a52220/KakaoTalk_20240731_212526091_05.png)
-
-![KakaoTalk_20240731_212526091_06.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/8caca8e1-2965-4ea6-a557-68852bfd51b9/KakaoTalk_20240731_212526091_06.png)
+![tab1_ver2](https://github.com/user-attachments/assets/9b77a36c-4480-4d15-977c-e986eae7bcee)
+![debt_detail](https://github.com/user-attachments/assets/c893e951-8d1d-4f29-ad9b-18b8252e3681)
+![settled](https://github.com/user-attachments/assets/faa2f732-3cf3-42e3-b2aa-1dd4dee948db)
 
 친구들과의 정산 목록을 확인할 수 있는 탭입니다.
 
@@ -74,16 +70,12 @@
 
 ---
 
-![KakaoTalk_20240731_212526091_08.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/8fa8a41f-374a-46da-bc5d-65f1c03bf00a/KakaoTalk_20240731_212526091_08.png)
+![tab2](https://github.com/user-attachments/assets/2cdcd211-1207-4748-9a70-974fb68eef52)
+![add_group](https://github.com/user-attachments/assets/f9558004-1dd6-4878-bedd-0d8c40acda3c)
 
-![KakaoTalk_20240731_212526091_07.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/f7076151-2a6b-40b9-b815-de9e9e472cdf/KakaoTalk_20240731_212526091_07.png)
-
-![KakaoTalk_20240731_212526091_09.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/899fd2fc-6dd5-49bc-8a21-691a5560d32a/KakaoTalk_20240731_212526091_09.png)
-
-![KakaoTalk_20240731_212526091_10.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/82e74696-b54f-4381-b7fc-8e13bfcf3f84/KakaoTalk_20240731_212526091_10.png)
-
-![KakaoTalk_20240731_212526091_11.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/399e7258-4970-4b5c-a6b2-e1089153cb2e/KakaoTalk_20240731_212526091_11.png)
-
+![group_expense](https://github.com/user-attachments/assets/b7dbfd64-0a22-4a9d-977e-935b15862dfb)
+![group_debt](https://github.com/user-attachments/assets/2405df39-6427-4e1e-b024-17b6ab039426)
+![group_debt_simplified](https://github.com/user-attachments/assets/a7a1623d-2423-476e-95a6-7fd2b7796c0b)
 내가 속해있는 그룹을 보여주고, 그룹 안에서 생긴 채무 관계를 정리해서 보여주는 탭입니다.
 
 - 내가 속해 있는 그룹들을 리스트로 보여줍니다.
@@ -109,10 +101,8 @@
 
 ---
 
-![KakaoTalk_20240731_212526091_01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/3eaddc90-528b-4fb7-a927-2250610babda/KakaoTalk_20240731_212526091_01.png)
-
-![KakaoTalk_20240731_212526091_12.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/c5c77dfd-22a4-4ab1-b784-f2cd74e977b6/KakaoTalk_20240731_212526091_12.png)
-
+![tab3_ver1](https://github.com/user-attachments/assets/529a1a9a-e906-4f51-8f6e-ae34faa1bfa1)
+![tab3_ver2](https://github.com/user-attachments/assets/524bdcb6-ec7e-4455-a521-03a8038233e4)
 연동된 카카오톡 프로필과 닉네임, 내 소비내역 차트를 보여주는 탭입니다.
 
 - 카카오톡에서 불러온 프로필 사진과 닉네임을 보여주고,
