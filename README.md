@@ -35,7 +35,7 @@
 
 ---
 <div style="display: flex; flex-direction: row;">
-    <img src="(https://github.com/user-attachments/assets/d4b02abb-018a-45da-b6b1-0cfb4e15a546" width="400"/>
+    <img src="(https://github.com/user-attachments/assets/d4b02abb-018a-45da-b6b1-0cfb4e15a546" width="200"/>
 </div>
 - 앱을 실행하면 바로 로그인 안내 화면(splash 화면)이 뜹니다.
 - 카카오 로그인을 지원합니다.
@@ -74,13 +74,13 @@
 
 ---
 <div style="display: flex; flex-direction: row;">
-  ![tab2](https://github.com/user-attachments/assets/2cdcd211-1207-4748-9a70-974fb68eef52)
-  ![add_group](https://github.com/user-attachments/assets/f9558004-1dd6-4878-bedd-0d8c40acda3c)
+  <img src="https://github.com/user-attachments/assets/2cdcd211-1207-4748-9a70-974fb68eef52" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f9558004-1dd6-4878-bedd-0d8c40acda3c" width="200"/>
 </div>
 <div style="display: flex; flex-direction: row;">
-  ![group_expense](https://github.com/user-attachments/assets/b7dbfd64-0a22-4a9d-977e-935b15862dfb)
-  ![group_debt](https://github.com/user-attachments/assets/2405df39-6427-4e1e-b024-17b6ab039426)
-  ![group_debt_simplified](https://github.com/user-attachments/assets/a7a1623d-2423-476e-95a6-7fd2b7796c0b)
+  <img src="https://github.com/user-attachments/assets/b7dbfd64-0a22-4a9d-977e-935b15862dfb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2405df39-6427-4e1e-b024-17b6ab039426" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a7a1623d-2423-476e-95a6-7fd2b7796c0b" width="200"/>
 </div>
 내가 속해있는 그룹을 보여주고, 그룹 안에서 생긴 채무 관계를 정리해서 보여주는 탭입니다.
 
@@ -107,8 +107,8 @@
 
 ---
 <div style="display: flex; flex-direction: row;">
-  ![tab3_ver1](https://github.com/user-attachments/assets/529a1a9a-e906-4f51-8f6e-ae34faa1bfa1)
-  ![tab3_ver2](https://github.com/user-attachments/assets/524bdcb6-ec7e-4455-a521-03a8038233e4)
+  <img src="https://github.com/user-attachments/assets/529a1a9a-e906-4f51-8f6e-ae34faa1bfa1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/524bdcb6-ec7e-4455-a521-03a8038233e4" width="200"/>
 </div>
 연동된 카카오톡 프로필과 닉네임, 내 소비내역 차트를 보여주는 탭입니다.
 
