@@ -35,7 +35,7 @@
 
 ---
 
-![KakaoTalk_20240731_212526091_14.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/8aad92a7-be1c-4630-9285-2f039bb624e4/KakaoTalk_20240731_212526091_14.png)
+![Uploading KakaoTalk_20240731_212526091_14.png…]()
 
 - 앱을 실행하면 바로 로그인 안내 화면(splash 화면)이 뜹니다.
 - 카카오 로그인을 지원합니다.
